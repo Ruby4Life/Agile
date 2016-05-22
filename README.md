@@ -1,7 +1,7 @@
 <h1>The Agile Process</h1>
 
-<p>The Agile process is the heart of any flexable and responcive software engeneering company.<br>
-"Agile is not a methodology it is a psychology"<br> Agile sits in contrast to the 'big design up-front' approach of "give us £8M to build a system and we'll see you in two years with something that might work".</p>
+<p>The Agile process is the heart of any flexable and responcive software engeneering company.</p><br>
+<h2>"Agile is not a methodology it is a psychology"</h2><br> <p>Agile sits in contrast to the 'big design up-front' approach of "give us £8M to build a system and we'll see you in two years with something that might work".</p>
 
 <h2>Agile Process</h2>
 <img src="https://github.com/Ruby4Life/Agile/blob/master/agile.png" alt="Agile" height="auto" width="auto">
