@@ -13,4 +13,4 @@
 <p>Recommended reading</p>
 <ul>
    <li>'The Retrospective Handbook' a guide for agile teams by Patrick Kua</li>
-</ul
+</ul>
