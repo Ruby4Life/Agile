@@ -10,7 +10,7 @@
 
 <p>This doesn't mean that changes should be made carelessly or quickly.<br> It is best to avoid making too many changes in the process at one time because otherwise it is difficult to determine which change led to any benefits or deficits. The critical component is that all members of the team are clear about what is being changed for what reason and everyone has agreed to give the changes a try.</p>
 
-<p>Recommended reading</p>
+<p>Recommended reading:</p>
 <ul>
    <li>'The Retrospective Handbook' a guide for agile teams by Patrick Kua</li>
 </ul>
